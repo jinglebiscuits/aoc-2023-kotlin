@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/build/
+/.idea/
+settings.gradle.kts
+src/main/resources/inputs/
